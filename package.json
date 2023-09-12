@@ -1,0 +1,51 @@
+{
+  "name": "praksa",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "1.17.11",
+    "@react-native-firebase/app": "^18.3.2",
+    "@react-native-firebase/auth": "^18.3.2",
+    "@react-native-picker/picker": "2.4.8",
+    "@react-navigation/bottom-tabs": "^6.5.8",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/native-stack": "^6.9.13",
+    "@types/react-native-calendars": "^1.1264.3",
+    "expo": "~48.0.18",
+    "expo-firebase-app": "^2.0.0",
+    "expo-status-bar": "~1.4.4",
+    "firebase": "9.7.0",
+    "lottie-react-native": "5.1.4",
+    "moment": "^2.29.4",
+    "react": "18.2.0",
+    "react-native": "0.71.8",
+    "react-native-add-calendar-event": "^4.2.2",
+    "react-native-animatable": "^1.3.3",
+    "react-native-calendar-events": "^2.2.0",
+    "react-native-calendars": "^1.1300.0",
+    "react-native-dropdown-select-list": "^2.0.4",
+    "react-native-fontawesome": "^7.0.0",
+    "react-native-gesture-handler": "~2.9.0",
+    "react-native-ionicons": "^4.6.5",
+    "react-native-paper": "^5.10.0",
+    "react-native-reanimated": "~2.14.4",
+    "react-native-safe-area-context": "^4.5.0",
+    "react-native-screens": "~3.20.0",
+    "react-native-snap-carousel": "^3.9.1",
+    "react-native-svg": "^13.4.0",
+    "react-native-textinput-effects": "^0.6.3",
+    "react-native-vector-icons": "^10.0.0",
+    "yet": "^0.1.0",
+    "zustand": "^4.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
